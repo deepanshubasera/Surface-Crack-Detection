@@ -2,7 +2,7 @@ Surface Crack Detection using CNN
 This project utilizes a Convolutional Neural Network (CNN) to classify surface images as cracked or non-cracked. The model is trained on a dataset from Kaggle, enabling automated defect detection for infrastructure and industrial applications.
 
 📌 Dataset
-Kaggle: Surface Crack Detection
+Kaggle: https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
 
 🔹 Key Features
 ✅ Preprocessed and augmented images for better generalization
